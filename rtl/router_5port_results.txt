@@ -1,0 +1,11 @@
+Five-port router test results
+Results are recorded as tests complete.
+
+PASS: FIFO, round-robin arbitration, and stable stalled grant
+PASS: all five destination routes
+PASS: simultaneous transfers on separate outputs
+PASS: output backpressure and input FIFO capacity
+PASS: invalid destination is discarded and reported
+
+Status: ALL TESTS PASSED
+Stage/transfer check points: 98
